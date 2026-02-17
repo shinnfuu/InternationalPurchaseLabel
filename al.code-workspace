@@ -1,8 +1,11 @@
 {
-    "folders": [
-        {
-            "path": ".AL-Go"
-        }
-    ],
-    "settings": {}
+  "folders": [
+    {
+      "path": "International Purchase Label"
+    },
+    {
+      "path": ".AL-Go"
+    }
+  ],
+  "settings": {}
 }
